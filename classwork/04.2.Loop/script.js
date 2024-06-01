@@ -168,3 +168,12 @@ console.log(`
 for(value in users[0]){
     console.log(users[0][value]);
 }
+
+
+
+
+// let arr10 = new Array(18);
+// let arr20 = [10];
+
+// console.log(arr10);
+// console.log(arr20);
